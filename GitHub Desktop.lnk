@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>html 1</title>
+</head>
+<body>
+   <h1>basketball is my favorite sport</h1>
+   <hr>
+   <p id="this is some website content!" style="color:red;">I am not good at basketball but enjoy it</p1>
+   <hr>
+   <img src="img/basketball.jpg" alt="basketball player throwing ball into basketball hoop" width="100" height="200">
+
+   <h2>I also love video games</h2>
+   <hr>
+   <p2><b>my favorite console is the playstation4</b></p2>
+   <hr>
+   <img src="img/ps4.jpg" alt="white sony ps4 dualshock placed on table" width="500"height="600">
+
+   <h3>I am more of a dog person<h3>
+   <hr>
+   <p><i>they are small dogs</i></p>
+   <hr>
+   <img src="img/puppie.jpg" alt="winking black and brown puppy" image=width="500" img=height="600"
+
+</body>
